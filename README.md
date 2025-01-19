@@ -6,10 +6,10 @@ Hey there! 👋 I created this landing page for **Winter Collection** to showcas
 
 Below are the featured images for the Winter Collection:
 
-![Winter Collection Image 1](public/images/screenshot25.jpg)
+![Winter Collection Image 1](public/screenshot(25).png)
 
-![Winter Collection Image 2](public/images/screenshot26.jpg)
+![Winter Collection Image 2](public/screenshot(26).png)
 
-![Winter Collection Image 3](public/images/screenshot.jpg)
+![Winter Collection Image 3](public/screenshot(27).png)
 
 
