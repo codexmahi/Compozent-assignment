@@ -6,8 +6,7 @@ const NewCollectionHeader = () => {
       <div className="new-collection-title">New collection</div>
       <div className="new-collection-sub">
         {" "}
-        Contrary to popular belief, Lorem Ipsum is not simply random text. It
-        has roots in a piece of classical Latin literature from 45 BC
+        Discover the perfect blend of warmth and style with Weaver's new winter collection
       </div>
     </div>
   );

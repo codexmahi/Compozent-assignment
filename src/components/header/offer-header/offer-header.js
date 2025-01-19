@@ -12,7 +12,7 @@ const OfferHeader = () => {
   return (
     <div className="offer-header">
       <div className="offer-heder-title">
-        Get 25% off This Summer Sale, Grab it Fast
+        Get 25% off This Winter Sale, Grab it Fast
       </div>
       <div className="offer-heder-countdown">
         <Countdown title="" value={deadline} onFinish={onFinish} />

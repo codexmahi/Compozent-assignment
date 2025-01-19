@@ -5,38 +5,33 @@ const NewCollection = () => {
   const cards_info = [
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 1",
-      subTitle: "sub_title",
-      price: 1,
+        "https://image.hm.com/assets/hm/f7/1e/f71e4b244b50a5005877b4227c7e6b608012cae1.jpg?imwidth=396",
+      title: "Woven Scarf",
+      price: 11.20
     },
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 2",
-      subTitle: "sub_title",
-      price: 1,
+        "https://image.hm.com/assets/hm/ad/41/ad411b5189417dda95283a16fc46f78b202ffd18.jpg?imwidth=396",
+      title: "Rib-Knit Arm Warmers",
+      price: 6.40,
     },
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 3",
-      subTitle: "sub_title",
-      price: 1,
+        "https://image.hm.com/assets/hm/c3/f8/c3f83bedf0c832ea39ce1efd1597ca56c4b3db51.jpg?imwidth=396",
+      title: "Fluffy-Knit Bucket Hat",
+      price: 12.00,
     },
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 4",
-      subTitle: "sub_title",
-      price: 1,
+        "https://image.hm.com/assets/hm/ae/2f/ae2fabdef12b6b84b8c61db1aeb8270f9f418357.jpg?imwidth=820",
+      title: "Suede Ankle Boots",
+      price: 70.48,
     },
     {
       image:
-        "https://images.unsplash.com/photo-1524095731963-b4e38d1b3329?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "title 5",
-      subTitle: "sub_title",
-      price: 1,
+        "https://image.hm.com/assets/hm/e1/8f/e18fd5b7cfffcb22a1b0bf6164857a4a8ee934e6.jpg?imwidth=384",
+      title: "Hoodie",
+      price: 20.9 ,
     },
   ];
   return (
