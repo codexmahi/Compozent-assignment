@@ -1,6 +1,6 @@
 # E-commerce Landing Page
 
-Hey there! 👋 I created this landing page for **Winter Collection** to showcase a collection of stylish winter wear. It's a simple, yet elegant page.
+Hey there! 👋 I created this landing page to showcase a collection of stylish winter wear. It's a simple, yet elegant page.
 
 ## Images
 
